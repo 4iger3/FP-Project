@@ -21,3 +21,12 @@ INFO: Unsupported notification method: $/setTrace
 2026.11.15 15:14:06 INFO  Memory monitor stopped
 2026.11.15 15:14:06 INFO  shutting down Metals
 2026.11.15 15:14:06 INFO  Exiting server
+2026.11.15 21:31:17 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\4iger3\Documents\VScode\FP Project' for client Visual Studio Code 1.146.0.
+2026.11.15 21:31:17 INFO  Memory monitor started
+2026.11.15 21:31:17 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+нояб. 15, 2026 9:42:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+нояб. 15, 2026 9:49:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+нояб. 15, 2026 9:49:27 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
